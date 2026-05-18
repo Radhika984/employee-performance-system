@@ -4,7 +4,7 @@ import "./App.css";
 
 function App() {
 
-  const API = "http://localhost:5000";
+  const API = "https://employee-backend-kc0a.onrender.com";
 
   const [employee, setEmployee] = useState({
     name: "",
